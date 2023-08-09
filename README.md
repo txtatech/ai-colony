@@ -1,7 +1,7 @@
 # ai-colony
 A framework for multiple LLM models to operate in a non-adversarial fashion based on the structure of a bee colony working together to maintain a hive.
 
-*Note On The AI Colony System**
+**Note On The AI Colony System**
 
 The AI Colony System is a theoretical collaborative framework designed to coordinate the efforts of multiple AI instances, each with its unique capabilities and roles. The system is inspired by natural systems, like bee colonies, and it's built to maximize the effectiveness of the team as a whole.
 
